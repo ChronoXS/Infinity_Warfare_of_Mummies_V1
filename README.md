@@ -8,4 +8,4 @@ Direction Keys, R, Space
 There are mummies continuously spawning corners of the map, you have to shoot and kill them thus gain score points, game gets faster with every mummy. When a mummy hits you, you lost one health, you have three healths. When all healths finish, you lost.
 
 # Coding 
-I use Python and Pygame, you can check .py file for sourcecode.
+I use Python and Pygame, you can check .py file for sourcecode. DENEME
